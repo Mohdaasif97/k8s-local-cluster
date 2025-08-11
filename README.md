@@ -11,7 +11,7 @@ I deployed a local Kubernetes cluster using Minikube and created an nginx applic
 ## Screenshots
 
 **Pods:**
-![Pods](images/pod.png)
+![Pods](images/pods.png)
 
 **Services:**
 ![Services](images/service.png)
